@@ -1,7 +1,7 @@
 
-  # GaonSweep Prototype Design
+  # SevaSetu Prototype Design
 
-  This is a code bundle for GaonSweep Prototype Design. The original project is available at https://www.figma.com/design/GAL6J4v4HLlN6ZZeT3oGG7/GaonSweep-Prototype-Design.
+  This is a code bundle for GaonSweep Prototype Design. The original project is available at https://glow-lunar-12633624.figma.site/.
 
   ## Running the code
 
